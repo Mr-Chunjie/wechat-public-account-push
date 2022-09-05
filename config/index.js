@@ -40,12 +40,12 @@ export const config = {
       openUrl: "https://www.xiaohongshu.com/explore"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "自己", 
+      id: "ozrkm6tdY3MnRb1qiGR2voRyzvok",
+      useTemplateId: "z4JISs9XUK9o2CtJVmtU9_3KxEmNb2YwhnPjvCWHeaU",
+      province: "山东",
+      city: "青岛",
+      openUrl: "https://www.xiaohongshu.com/explore"
     }, 
     
   ],
