@@ -29,7 +29,7 @@ export const config = {
       // 想要发送的人的名字
       name: "陈佳璐",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ozrkm6tdY3MnRb1qiGR2voRyzvok",
+      id: "ozrkm6m9pqY0mjyidfhxthDB_32s",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "z4JISs9XUK9o2CtJVmtU9_3KxEmNb2YwhnPjvCWHeaU",
       // 所在省份
@@ -47,22 +47,7 @@ export const config = {
       city: "",
       openUrl: "https://wangxinleo.cn"
     }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+    
   ],
 
   /**
